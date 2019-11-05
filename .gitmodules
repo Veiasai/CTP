@@ -7,3 +7,6 @@
 [submodule "src/googletest"]
 	path = src/googletest
 	url = git@github.com:google/googletest.git
+[submodule "src/yaml-cpp"]
+	path = src/yaml-cpp
+	url = git@github.com:jbeder/yaml-cpp.git

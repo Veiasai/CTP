@@ -10,6 +10,7 @@ add_subdirectory(CTP_API)
 add_subdirectory(ptrace)
 add_subdirectory(benchmark)
 add_subdirectory(spdlog)
+add_subdirectory(yaml-cpp)
 
 # GTest
 add_subdirectory(googletest)
